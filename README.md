@@ -1,5 +1,7 @@
 # Portfólio - Yasmin Verderame
 Bem-vindo ao meu portfolio frontend! Este é o lugar onde eu mostro meu trabalho como desenvolvedora web frontend. Aqui você encontrará uma coleção dos projetos nos quais trabalhei, desde pequenos experimentos até projetos mais robustos e completos.
+<br>
+Link: https://yasmin-portfolio-six.vercel.app/
 
 ## Sobre Mim
 Sou desenvolvedora web frontend apaixonada por criar interfaces incríveis e funcionais. Com uma combinação de habilidades em HTML, CSS e JavaScript, estou sempre buscando maneiras de elevar a experiência do usuário a um novo nível. Além disso, estou sempre aprendendo e explorando novas tecnologias para expandir meu conjunto de habilidades.
