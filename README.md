@@ -23,4 +23,4 @@ Se você gostou do que viu ou tem alguma pergunta sobre meu trabalho, não hesit
 - GitHub: https://github.com/YasminVerderame/
 
 ## Prévia
-![screencapture-66314b0c61af491a96070484-leafy-cannoli-1d0531-netlify-app-2024-04-30-16_56_04](https://github.com/YasminVerderame/portfolio/assets/73840387/3c52932b-3d51-4c00-9d10-1bf402c339ec)
+![screencapture-6633d1861174b120303ae77a-prismatic-cannoli-f8f723-netlify-app-2024-05-02-14_56_19](https://github.com/YasminVerderame/portfolio/assets/73840387/603e0e7e-947b-4fbb-bab6-38f074ede343)
